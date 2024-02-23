@@ -28,11 +28,11 @@
           "posterindex": 0
     },
     {
-          "title": "The Godfather: Part II",
+          "title": "The Perks of Being a Wallflower",
           "iscore": 9.0,
-          "rating": "R",
-          "runtime": 202,
-          "released": [1974, 12, 20],
+          "rating": "PG-13",
+          "runtime": 105,
+          "released": [2012, 9, 21],
           "country": "USA",
           "posters": ["img/godfather2.jpg", "img/godfather2_2.jpg"],
           "imdb": "http://www.imdb.com/title/tt0071562",
