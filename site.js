@@ -34,9 +34,9 @@ const vue_app = Vue.createApp({
           movies: [],
           /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
           trueMonths: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-          Title: "IMDB + Sofia's Top 8 Movies",
-          owner: "Hannah Fiierro",
-          github: "https://github.com/scolorado/Colorado-P3",
+          Title: "IMDB + Hannah's Top 8 Movies",
+          owner: "Hannah Fierro",
+          github: "https://github.com/hannahfierro/p3",
        
     }
   },
